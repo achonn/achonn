@@ -1,9 +1,9 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/06/36/03/72/360_F_636037240_R0A6h1JkWwmKU5AtVLLCxCpJMicprCdb.jpg)
 <h1 align="center">Hi 👋, I'm Alex Chon</h1>
 <h3 align="center">A first year mechatronics engineering student at the University of Waterloo</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achonn&label=Profile%20views&color=0e75b6&style=flat" alt="achonn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achonn&label=Profile%20views&color=0e75b6&style=flat" alt="achonn"/> </p>
 
 - 🔭 I’m currently working on **learning full stack development as well as my personal webiste**
 
@@ -22,8 +22,6 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achonn&show_icons=true&locale=en" alt="alex chon" width="47%"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=achonn&show_icons=true&locale=en" alt="alex chon" width="47%"/></p>
 
-<img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achonn&layout=compact"/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achonn&" alt="achonn" /></p>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achonn&layout=compact"/>
