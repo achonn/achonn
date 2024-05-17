@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achonn&label=Profile%20views&color=0e75b6&style=flat" alt="achonn" /> </p>
 
-- 🔭 I’m currently working on **my own personal website**
+- 🔭 I’m currently working on **learning full stack development as well as my personal webiste**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
