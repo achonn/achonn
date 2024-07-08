@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning full stack development as well as my personal webiste**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Javascript + React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/achonn](https://github.com/achonn)
 
