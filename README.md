@@ -3,6 +3,6 @@
 Here are my latest projects
 
 1. **[Threddit](https://github.com/achonn/Threddit)**: An app to create, share, and vote on social media content.
-2. **[STEMplify](https://github.com/achonn/STEMplify)**: An tool to simplify text and files.
+2. **[STEMplify](https://github.com/achonn/STEMplify)**: A tool to simplify text and files.
 
 For more projects, visit my repositories
