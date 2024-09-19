@@ -7,4 +7,4 @@ Here are my latest projects
 
 Right now, I am developing a podcast platform with AI integrated features.
 
-For more projects, visit my repositories
+For more projects, visit my repositories.
