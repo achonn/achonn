@@ -1,4 +1,5 @@
-👋 I'm Alex. I'm a Mechatronics Engineering student. I am passionate about using technology to create meaningful solutions and am currently seeking Software Engineering Internships for 2025. 
+👋 I'm Alex. I'm a Mechatronics Engineering student. I am passionate about using technology to create meaningful solutions.
+I am currently seeking Software Engineering Internships for 2025. 
 
 Here are my latest projects
 
@@ -7,4 +8,4 @@ Here are my latest projects
 
 Right now, I am developing a podcast platform with AI integrated features.
 
-For more projects, visit my repositories.
+🧑‍💻 For more projects, visit my repositories. 
